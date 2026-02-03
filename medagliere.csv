@@ -16,13 +16,13 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:bg: Bulgaria;;;;
 	:ca: Canada;;;;
 	:cl: Cile;;;;
-	 Cina;;;;
-	 Cipro;;;;
-	 Colombia;;;;
-	 Corea del Sud;;;;
-	 Croazia;;;;
-	 Danimarca;;;;
-	 Ecuador;;;;
+	:cn: Cina;;;;
+	:cy: Cipro;;;;
+	:co: Colombia;;;;
+	:kr: Corea del Sud;;;;
+	:hr: Croazia;;;;
+	:dk: Danimarca;;;;
+	:ec: Ecuador;;;;
 	 Emirati Arabi Uniti;;;;
 	 Eritrea;;;;
 	 Estonia;;;;
@@ -92,4 +92,5 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	 Uzbekistan;;;;
 
 	 Venezuela;;;;
+
 
