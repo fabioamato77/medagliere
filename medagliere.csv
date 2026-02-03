@@ -1,21 +1,21 @@
 PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:al: Albania;25;34;99;
 	:ad: Andorra;;;;
-	 Arabia Saudita;;;;
-	 Argentina;;;;
-	 Armenia;;;;
+	:sa: Arabia Saudita;;;;
+	:ar: Argentina;;;;
+	:am: Armenia;;;;
 	 Atleti Individuali Neutrali;;;;
-	 Australia;;;;
-	 Austria;;;;
-	 Azerbaigian;;;;
-	 Belgio;;;;
-	 Benin;;;;
-	 Bolivia;;;;
-	 Bosnia ed Erzegovina;;;;
-	 Brasile;;;;
-	 Bulgaria;;;;
-	 Canada;;;;
-	 Cile;;;;
+	:au: Australia;;;;
+	:at: Austria;;;;
+	:az: Azerbaigian;;;;
+	:be: Belgio;;;;
+	:bj: Benin;;;;
+	:bo: Bolivia;;;;
+	:ba: Bosnia ed Erzegovina;;;;
+	:br: Brasile;;;;
+	:bg: Bulgaria;;;;
+	:ca: Canada;;;;
+	:cl: Cile;;;;
 	 Cina;;;;
 	 Cipro;;;;
 	 Colombia;;;;
@@ -92,3 +92,4 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	 Uzbekistan;;;;
 
 	 Venezuela;;;;
+
