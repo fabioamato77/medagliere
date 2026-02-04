@@ -1,5 +1,5 @@
 PAESE;ORO;ARGENTO;BRONZO;TOTALE
-	:al: Albania;;;;
+	:al: Albania;1;;;1
 	:ad: Andorra;;;;
 	:sa: Arabia Saudita;;;;
 	:ar: Argentina;;;;
@@ -91,4 +91,5 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:uy: Uruguay;;;;
 	:uz: Uzbekistan;;;;
 	:ve: Venezuela;;;;
+
 
