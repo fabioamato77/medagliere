@@ -14,7 +14,7 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:ba: Bosnia ed Erzegovina;;;;
 	:br: Brasile;;;;
 	:bg: Bulgaria;;;;
-	:ca: Canada;;;;
+	:ca: Canada;0;0;1;1
 	:cl: Cile;;;;
 	:cn: Cina;;;;
 	:cy: Cipro;;;;
@@ -64,7 +64,7 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:mn: Mongolia;;;;
 	:me: Montenegro;;;;
 	:ng: Nigeria;;;;
-	:no: Norvegia;0;0;1;1
+	:no: Norvegia;0;1;1;2
 	:nz: Nuova Zelanda;;;;
 	:nl: Paesi Bassi;;;;
 	:pk: Pakistan;;;;
@@ -91,6 +91,7 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:uy: Uruguay;;;;
 	:uz: Uzbekistan;;;;
 	:ve: Venezuela;;;;
+
 
 
 
