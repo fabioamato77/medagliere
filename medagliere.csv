@@ -28,9 +28,9 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:ee: Estonia;;;;
 	:ph: Filippine;;;;
 	:fi: Finlandia;;;;
-	:fr: Francia;;;;
+	:fr: Francia;0;1;0;1
 	:ge: Georgia;;;;
-	:de: Germania;;;;
+	:de: Germania;0;1;0;1
 	:jm: Giamaica;;;;
 	:jp: Giappone;1;1;1;3
 	:gb: Gran Bretagna;;;;
@@ -43,7 +43,7 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:ie: Irlanda;;;;
 	:is: Islanda;;;;
 	:il: Israele;;;;
-	:it: Italia;1;1;1;3
+	:it: Italia;1;1;2;4
 	:kz: Kazakistan;;;;
 	:ke: Kenya;;;;
 	:kg: Kirghizistan;;;;
@@ -64,7 +64,7 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:mn: Mongolia;;;;
 	:me: Montenegro;;;;
 	:ng: Nigeria;;;;
-	:no: Norvegia;1;1;1;3
+	:no: Norvegia;2;1;2;5
 	:nz: Nuova Zelanda;;;;
 	:nl: Paesi Bassi;;;;
 	:pk: Pakistan;;;;
@@ -78,7 +78,7 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:sk: Slovacchia;;;;
 	:si: Slovenia;0;1;0;1
 	:es: Spagna;;;;
-	:us: Stati Uniti;;;;
+	:us: Stati Uniti;1;0;0;1
 	:za: Sudafrica;;;;
 	:se: Svezia;1;1;0;2
 	:ch: Svizzera;1;0;0;1
@@ -91,6 +91,7 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:uy: Uruguay;;;;
 	:uz: Uzbekistan;;;;
 	:ve: Venezuela;;;;
+
 
 
 
