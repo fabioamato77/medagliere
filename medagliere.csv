@@ -6,20 +6,20 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:am: Armenia;;;;
 	 Atleti Individuali Neutrali;;;;
 	:au: Australia;;;;
-	:at: Austria;0;1;0;1
+	:at: Austria;1;1;0;2
 	:az: Azerbaigian;;;;
 	:be: Belgio;;;;
 	:bj: Benin;;;;
 	:bo: Bolivia;;;;
 	:ba: Bosnia ed Erzegovina;;;;
 	:br: Brasile;;;;
-	:bg: Bulgaria;;;;
+	:bg: Bulgaria;0;0;0;1
 	:ca: Canada;0;0;1;1
 	:cl: Cile;;;;
 	:cn: Cina;0;0;1;1
 	:cy: Cipro;;;;
 	:co: Colombia;;;;
-	:kr: Corea del Sud;;;;
+	:kr: Corea del Sud;0;1;0;1
 	:hr: Croazia;;;;
 	:dk: Danimarca;;;;
 	:ec: Ecuador;;;;
@@ -28,9 +28,9 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:ee: Estonia;;;;
 	:ph: Filippine;;;;
 	:fi: Finlandia;;;;
-	:fr: Francia;0;1;0;1
+	:fr: Francia;1;1;0;2
 	:ge: Georgia;;;;
-	:de: Germania;0;1;0;1
+	:de: Germania;0;1;1;2
 	:jm: Giamaica;;;;
 	:jp: Giappone;1;1;1;3
 	:gb: Gran Bretagna;;;;
@@ -43,7 +43,7 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:ie: Irlanda;;;;
 	:is: Islanda;;;;
 	:il: Israele;;;;
-	:it: Italia;1;1;3;5
+	:it: Italia;1;2;3;6
 	:kz: Kazakistan;;;;
 	:ke: Kenya;;;;
 	:kg: Kirghizistan;;;;
@@ -91,6 +91,7 @@ PAESE;ORO;ARGENTO;BRONZO;TOTALE
 	:uy: Uruguay;;;;
 	:uz: Uzbekistan;;;;
 	:ve: Venezuela;;;;
+
 
 
 
